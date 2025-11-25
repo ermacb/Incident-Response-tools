@@ -1,3 +1,3 @@
 # Incident-Response-tools
-Scripts for automate incident Response 
-This scripts help you to automate each fase of incident response and get information quickly
+Scripts for automate incident Response Table Top Excercise 
+This scripts help you to automate Table top and Drill Scenarios 
